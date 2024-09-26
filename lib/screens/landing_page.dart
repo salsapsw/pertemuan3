@@ -5,12 +5,12 @@ import '../../widgets/side_menu.dart';
 class LandingPage extends StatelessWidget {
   const LandingPage({Key? key}) : super(key: key);
 
-  void _logout(BuildContext context) async {
-    SharedPreferences prefs = await SharedPreferences.getInstance();
-    await prefs.setBool('isLoggedIn', false);
-    await prefs.remove('username');
-    Navigator.of(context).pushReplacementNamed('/');
-  }
+  // void _logout(BuildContext context) async {
+  //   SharedPreferences prefs = await SharedPreferences.getInstance();
+  //   await prefs.setBool('isLoggedIn', false);
+  //   await prefs.remove('username');
+  //   Navigator.of(context).pushReplacementNamed('/');
+  // }
 
   Future<String?> _getUsername() async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
