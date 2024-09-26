@@ -3,9 +3,10 @@
 
 # PENJELASAN SOURCE CODE
 # main.dart
-![image](https://github.com/user-attachments/assets/38fb03d9-9caa-41fe-963a-eab3813c997a)
+1. ![image](https://github.com/user-attachments/assets/38fb03d9-9caa-41fe-963a-eab3813c997a)
 digunakan untuk mengimpor pustaka flutter yang diperlukan dan juga file lain yang diperlukan. 
-![image](https://github.com/user-attachments/assets/f5c2ec0e-7885-467b-9b2f-0b462ce0ce8d)
+
+2. ![image](https://github.com/user-attachments/assets/f5c2ec0e-7885-467b-9b2f-0b462ce0ce8d)
 ini digunakan untuk mengatur tema keseluruhan aplikasi 
 primarySwatch: Menentukan palet warna utama (warna dominan) dari aplikasi
 primaryColor: Warna utama untuk komponen aplikasi seperti AppBar
@@ -18,9 +19,11 @@ bodyMedium: Gaya teks untuk teks biasa dengan ukuran medium
 bodySmall: Gaya teks untuk teks biasa dengan ukuran lebih kecil
 titleLarge: Gaya untuk judul besar, seperti headline
 elevatedButtonTheme: Menentukan gaya tombol ElevatedButton
-![image](https://github.com/user-attachments/assets/21a7f88b-a59c-4333-b529-4a0a59d5c3e2)
+
+3. ![image](https://github.com/user-attachments/assets/21a7f88b-a59c-4333-b529-4a0a59d5c3e2)
 ini untuk menentukan halaman apa yang pertama kali muncul ketika aplikasi dijalankan 
-![image](https://github.com/user-attachments/assets/36dbc62e-97d3-4f30-b8a8-1be6b70b6c28)
+
+4. ![image](https://github.com/user-attachments/assets/36dbc62e-97d3-4f30-b8a8-1be6b70b6c28)
 ini digunakan untuk mengarahkan ke halaman yang dituju ketika dipanggil 
 # landing_page.dart
 ![image](https://github.com/user-attachments/assets/afc4a933-945a-474b-a288-f4f5d8092515)
