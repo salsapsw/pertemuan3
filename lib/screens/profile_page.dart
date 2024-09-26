@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart'; // Pastikan untuk menambahkan ini ke pubspec.yaml
+import 'package:font_awesome_flutter/font_awesome_flutter.dart'; 
 
 class ProfilePage extends StatelessWidget {
   const ProfilePage({Key? key}) : super(key: key);
